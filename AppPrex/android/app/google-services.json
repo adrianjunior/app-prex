@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877401896118",
+    "firebase_url": "https://app-prex.firebaseio.com",
+    "project_id": "app-prex",
+    "storage_bucket": "app-prex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877401896118:android:bcc00b713ea23979586217",
+        "android_client_info": {
+          "package_name": "com.litufc.prex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877401896118-of3gq3j7fkrdnluc11cvsemjqijtkiq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFk2Tkxppein3Sqttr_MD4WPdB03Lez9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877401896118-of3gq3j7fkrdnluc11cvsemjqijtkiq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
